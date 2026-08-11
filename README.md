@@ -1,4 +1,5 @@
-# BASIC NETWORK SNIFFER
+#CODEALPHA- Basic Network Sniffer
+## BASIC NETWORK SNIFFER
 - A beginner-friendly python-based network sniffer developed as a cybersecurity learning project
 
 ## PROJECT OVERVIEW
@@ -14,13 +15,13 @@ The sniffer captures packets from the computer's network interface and displays 
 -packet capture time
 The captured packets are also saved in PCAP format for further analysis using tools such as 'wireshark'
 
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 -python 3
 -scapy
 -NPCAP (windows)
 -wireshark (optional for analyzing PCAP files)
 
-##PROJECT STRUCTURE
+## PROJECT STRUCTURE
 NetworkSniffer/
 |
 |--sniffer.py
