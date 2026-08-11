@@ -20,4 +20,9 @@ The captured packets are also saved in PCAP format for further analysis using to
 -NPCAP (windows)
 -wireshark (optional for analyzing PCAP files)
 
-##
+##PROJECT STRUCTURE
+NetworkSniffer/
+|
+|--sniffer.py
+|--captured_packets.pcap
+|--README.md
